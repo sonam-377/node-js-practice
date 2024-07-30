@@ -12,8 +12,11 @@
 //   .listen(8000);
 // console.log("application is running");
 // //
-const text = require("./text");
-console.log(text.lowerCase("SONAM"));
+// const text = require("./text");
+// console.log(text.lowerCase("SONAM"));
 
-const number = require("./text");
-console.log(number);
+// const number = require("./text");
+// console.log(number);
+
+const temperature = require("./temperature");
+console.log(temperature);
